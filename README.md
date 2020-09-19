@@ -13,6 +13,8 @@ An alternative to Wormholy but for both iOS and Android and with zero native dep
 
 ## Features
 
+Test
+
 - Log networks requests on iOS and Android
 - View network requests made with in app viewer
 - Debug network requests on release builds
