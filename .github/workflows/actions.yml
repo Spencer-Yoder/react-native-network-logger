@@ -2,7 +2,7 @@ name: Pull-Request-Checks
 on:
   pull_request:
     branches:
-      - master
+      - actions
 jobs:
   typescript-check:
     runs-on: ubuntu-latest
